@@ -16,3 +16,34 @@ h2 {
   font-weight: lighter;
   letter-spacing: 20px;
 }
+
+.me-img {
+  float: left;
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.projects-box {
+  margin: 10px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+
+.history-box {
+  margin: 10px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+ 
+.interests-box {
+  margin: 10px;
+  padding: 2px;
+  box-sizing: border-box;
+}
