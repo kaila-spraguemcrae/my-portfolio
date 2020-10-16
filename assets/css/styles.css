@@ -1,6 +1,6 @@
 .container-fluid {
   width: 80%;
-  max-width: 1700px;
+  max-width: 1600px;
 }
 
 body {
@@ -74,6 +74,7 @@ a {
 .history {
   color: rgb(37, 37, 37);
   font-size: 25px;
+  margin: 10px;
 }
 
 .history h2{
@@ -116,4 +117,8 @@ a {
 }
 .img3 {
   float: left;
+}
+
+.normal {
+  font-size: 25px;
 }
