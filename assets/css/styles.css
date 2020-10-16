@@ -1,20 +1,19 @@
 .container-fluid {
   width: 80%;
-  max-width: 1500px;
+  max-width: 1600px;
 }
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: .5px;
-  background-image: url(../images/Tokyo2.jpg);
 }
 h2 {
   letter-spacing: 15px;
-  color: floralwhite;
+  color: rgb(94, 94, 94);
+  font-size: 35px;
 }
 .non-box-text {
   font-size: larger;
-  
 }
 
 .jumbotron {
@@ -39,3 +38,35 @@ h2 {
   overflow: auto;
 }
 
+.gh-button {
+  text-align: center;
+  font-size: 34px;
+  font-style: italic;
+}
+
+.card {
+  background-color: rgba(225, 225, 225, 0.826);
+}
+
+a {
+  color: rgb(84, 84, 84);
+  font-style: normal;
+  font-family: monospace;
+  font-size: larger;
+  text-decoration: underline;
+  letter-spacing: .5px;
+}
+
+.title-font .card-title {
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.background {
+  background-image: url(../images/Tokyo2.jpg); 
+}
+
+.layer {
+  background-color: rgba(255, 249, 249, 0.244);
+  width: 70%;
+}
