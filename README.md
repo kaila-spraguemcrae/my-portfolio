@@ -16,7 +16,7 @@ _Click here to view the Deployed website._
 
 # Open Locally
 
-_Go to the repository on GitHub, here, and clone it._
+_Go to the repository on GitHub, [here](https://github.com/kaila-spraguemcrae/my-portfolio), and clone it._
 
 ## Known Bugs
 
