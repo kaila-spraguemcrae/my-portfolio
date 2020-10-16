@@ -6,7 +6,8 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: .5px;
-  background-image: url(../images/Tokyo2.jpg);
+  background-image: url(../images/Tokyo11.jpg);
+  background-repeat: repeat;
 }
 .projects-header {
   letter-spacing: 15px;
@@ -79,3 +80,40 @@ a {
   width: 100%;
   padding: 12px;
 }
+
+.img4 {
+  float: center;
+  width: 600px;
+  margin: 10px;
+  border-radius: 10px;
+  margin-right: 30px;
+}
+
+.history-img img {
+  max-width: 600px;
+  max-height: 600px;
+  margin: 10px;
+  border-radius: 10px;
+  margin-right: 30px;
+  display: block;
+}
+
+.clearfix {
+overflow: auto;
+}
+
+/*
+.img1 {
+  float: left;
+}
+
+.img2 {
+  float: right;
+}
+.img3 {
+  float: left;
+}
+
+.img4 {
+  float: right;
+}*/
