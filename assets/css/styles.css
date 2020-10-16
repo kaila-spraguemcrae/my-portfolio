@@ -6,14 +6,15 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: .5px;
+  background-image: url(../images/Tokyo2.jpg);
 }
-h2 {
+.projects-header {
   letter-spacing: 15px;
   color: rgb(94, 94, 94);
   font-size: 35px;
 }
 .non-box-text {
-  font-size: larger;
+  font-size: 24px;
 }
 
 .jumbotron {
@@ -62,11 +63,19 @@ a {
   font-size: 25px;
 }
 
-.background {
-  background-image: url(../images/Tokyo2.jpg); 
+.history {
+  color: rgb(37, 37, 37);
+  font-size: 25px;
 }
 
-.layer {
-  background-color: rgba(255, 249, 249, 0.244);
-  width: 70%;
+.history h2{
+  letter-spacing: 15px;
+  font-size: 35px;
+  color: rgb(72, 72, 72);
+}
+
+.background-color {
+  background-color: rgba(255, 255, 255, 0.62);
+  width: 100%;
+  padding: 12px;
 }
