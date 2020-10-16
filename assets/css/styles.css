@@ -1,3 +1,18 @@
 body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: .5px;
   background-image: url(../images/Tokyo1.jpg);
+}
+h2 {
+  letter-spacing: 15px;
+  color: floralwhite;
+}
+.light-grey {
+  color: lightgray;
+}
+
+.jumbotron {
+  font-family: monospace;
+  font-weight: lighter;
+  letter-spacing: 20px;
 }
