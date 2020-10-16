@@ -1,6 +1,6 @@
 .container-fluid {
   width: 80%;
-  max-width: 1600px;
+  max-width: 1000px;
 }
 
 body {
@@ -114,6 +114,7 @@ a {
 
 .img2 {
   float: right;
+  margin-bottom: 20px;
 }
 .img3 {
   float: left;

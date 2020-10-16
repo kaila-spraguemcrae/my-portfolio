@@ -12,7 +12,7 @@ _This is a website I created to practice what I have learned thus far. This is a
 
 # View Online
 
-_Click here to view the Deployed website._
+_Click [here](https://kaila-spraguemcrae.github.io/my-portfolio) to view the Deployed website._
 
 # Open Locally
 
